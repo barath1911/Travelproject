@@ -401,7 +401,7 @@ position: relative;
 
 #static-counter{
     padding: 6rem 0;
-    background: url("/project/counter.1.jpg") no-repeat center/cover;
+    background: url("project/counter.1.jpg") no-repeat center/cover;
     background-attachment: fixed;
     position: relative;
     z-index: 40;
@@ -665,7 +665,7 @@ position: relative;
 #testimonials{
     padding: 6rem 0;
     width: 100%;
-    background: url("/project/counter.1.jpg") no-repeat center/cover;
+    background: url("project/counter.1.jpg") no-repeat center/cover;
     background-attachment: fixed;
 }
 
@@ -837,6 +837,7 @@ form{
     padding: 1rem 0;
     color: var(--white-color);
 }
+
 
 
 
